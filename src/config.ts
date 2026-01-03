@@ -77,7 +77,7 @@ export const siteConfig = {
       ],
     },
     {
-      company: "Velatura Public Benefit Corporation",
+      company: "Michigan Health Information Network (now Velatura)",
       title: "Software Engineer Intern",
       dateRange: "Jun 2023 – Aug 2023",
       bullets: [
