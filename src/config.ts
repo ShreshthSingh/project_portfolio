@@ -40,6 +40,13 @@ export const siteConfig = {
   ],
 
   projects: [
+      {
+    name: "AI-Powered Resume Tailor",
+    description:
+      "A full-stack AI application that customizes resumes to job descriptions by extracting role-specific keywords and dynamically enhancing resume content, with user review and automated PDF generation.",
+    link: "https://github.com/ShreshthSingh/resume-editor",
+    skills: ["Python", "Streamlit", "LLMs", "Ollama", "JSON", "ReportLab"],
+    },
     {
       name: "Party Animal",
       description:
